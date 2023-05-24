@@ -1,0 +1,18 @@
+stylesheet.css
+body {
+	background-color: coral;
+}
+
+h1 {
+	color: green;
+}
+
+img {
+	border-radius: 80%
+}
+p.frame {
+	border: 2px solid red;
+}
+p.noframe {
+	color: blue;
+}
